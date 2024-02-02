@@ -2,7 +2,7 @@
 
 ## Project Description
 Predicts customer churn based on a series of features already defined in the code.
-This is a refactor from a jupyter notebook.
+I'm authoring only the code: the model is pre-built and from a jupyter notebook.
 
 ## Files and data description
 - The library is within churn_library.py
