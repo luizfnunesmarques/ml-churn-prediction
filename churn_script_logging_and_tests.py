@@ -1,6 +1,10 @@
 # churn_script_logging_and_tests.py
 
-"""This file tests churn library"""
+"""
+Tests for the churn library
+Author: Luiz Marques
+Creation date: 03/04/2024
+"""
 
 import logging
 import os
