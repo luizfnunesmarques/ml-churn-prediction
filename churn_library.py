@@ -1,6 +1,10 @@
 # churn_library_solution.py
 
-"""This library provides functions to explore, manipulate and train ml models."""
+"""
+This library provides functions to explore, manipulate and train ml models.
+Author: Luiz Marques
+Creation date: 04/02/2024
+"""
 
 import os
 
